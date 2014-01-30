@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.YourRepo" name="Madchester REPO" version="1.0" provider-name="Madchester Your Name">
+	<extension point="xbmc.addon.repository" name="Madchester Addon Repository">
+		<info compressed="false">http://github.com/Madchester3131/Madchester3131/raw/master/addons.xml</info>
+		<checksum>http://github.com/Madchester3131/Madchester3131/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://github.com/Madchester3131/Madchester3131/raw/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install MY Addons</summary>
+		<description>Download and install addons from HELLO.......For OFFICIAL !! Support Visit XBMCHUB.COM</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
